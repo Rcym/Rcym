@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- i use github to organize my projects (most of them are private and unfinished 👽)
+- best coding streak : 24 days
+- will be adding more descriptions here as i go
+
 <!--
 **Rcym/Rcym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
